@@ -1,4 +1,5 @@
-Welcome to Firat Tonak's GitHub! <br> 
+<strong style="text-align: center;">Welcome to Firat Tonak's GitHub!<strong>
+ <br>  <br>  <br>  <br>  <br> 
 👋 Hi there! I'm Firat Tonak, a passionate software engineer specializing in the .NET technology stack. This is where I share my journey with code, exploring the vast world of .NET, and pushing the boundaries of web and software development. <br> <br> 
 
 About Me <br> 
