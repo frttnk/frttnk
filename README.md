@@ -1,8 +1,7 @@
-<strong style="text-align: center;">Welcome to Firat Tonak's GitHub!<strong>
- <br>  <br>  <br>  <br>  <br> 
+<br> <br> 
 👋 Hi there! I'm Firat Tonak, a passionate software engineer specializing in the .NET technology stack. This is where I share my journey with code, exploring the vast world of .NET, and pushing the boundaries of web and software development. <br> <br> 
 
-About Me <br> 
+About Me <br> <br> 
 🌐 .NET Enthusiast: With a primary focus on .NET technologies, I delve into ASP.NET, Entity Framework, C#, and more, crafting scalable and efficient applications. <br> <br> 
 🔍 Innovating Solutions: I am committed to solving complex problems with clear, maintainable, and efficient code. Whether it's building robust web applications or developing intricate software systems, I always aim to bring innovative solutions to the table. <br> <br> 
 📚 Lifelong Learner: The tech world is ever-evolving, and so am I. Continuously learning and adapting to new tools and frameworks is part of my daily routine. <br> <br> 
