@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Firat Tonak
+# 👋 Hi there! I'm Firat
 
 I’m a passionate **full-stack software engineer** with expertise spanning **cybersecurity**, **cloud computing**, **application security**, **AI**, **web development**, and **modern frameworks**. This is where I share my journey, expertise, and projects, exploring the ever-evolving world of technology.
 
