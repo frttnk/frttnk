@@ -5,7 +5,7 @@ I’m a passionate **full-stack software engineer** with expertise spanning **cy
 ## About Me
 
 ### 🌐 **Full-Stack Development**
-I specialize in both **frontend** and **backend** development, creating scalable, efficient, and high-performance applications. I work with modern technologies and frameworks such as **React.js**, **Node.js**, **ASP.NET Core**, **TypeScript**, and more to build robust solutions.
+I specialize in both **frontend** and **backend** development, creating scalable, efficient, and high-performance applications. On the **backend**, I work with languages like **C#**, **Java**, and **Python**, applying various **design patterns** to build robust and maintainable systems. I am also focused on optimizing solutions through **data structures** and **algorithms**. Additionally, I have expertise in both **monolithic** and **microservice architectures**, enabling me to design flexible, scalable solutions. On the **frontend**, I leverage modern technologies and frameworks such as **React.js**, **Node.js**, **ASP.NET Core**, and **TypeScript** to deliver seamless, user-centric applications.
 
 ### 🔒 **Cybersecurity & Application Security**
 Security is paramount in today’s digital landscape. I am deeply committed to building secure applications, understanding security vulnerabilities, and implementing best practices to safeguard systems from potential threats. My work in **application security** includes securing APIs, authentication mechanisms, and protecting sensitive data.
